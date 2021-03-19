@@ -1,19 +1,9 @@
 Highlights & Device Specific Changes:
-Build type: Beta
+Build type: Testing
 Device: Redmi Note 7 (lavender)
-Device maintainer: letsmakecakes
+Device maintainer: gianogli
 
 
-===== 15 January, 2021 =====
-
-- Android January 2021 Security update
-- Fixes for old style mobile indicator
-- Added crdroid Ambient Display tuning (crdroid > UI)
-- Revamped launcher with many customizations and fixes
-- Re-enabled iorapd / perfetto for faster app launch
-- lavender : Live display and Night light has been fixed
-- lavender : Fixed more issues related to device
-
-===== 20 November, 2020 =====
+===== 14 March, 2021 =====
 
 - Initial crDroid 7 support
