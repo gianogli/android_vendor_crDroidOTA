@@ -1,28 +1,28 @@
 {
 	"response": [
 		{
-			"maintainer": "Prashant",
+			"maintainer": "gianogli",
 			"oem": "Redmi",
 			"device": "Redmi Note 7",
-			"filename": "crDroidAndroid-13.0-20230813-lavender-v9.8.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/lavender/9.x/crDroidAndroid-13.0-20230813-lavender-v9.8.zip/download",
-			"timestamp": 1691937971,
-			"md5": "eaca7ab5696b4f4fe11ae40298c543a2",
-			"sha256": "9822eccec7b28e8285e073dce6ab1b57ae7310ce359a3d5941142648dcfbbcf5",
-			"size": 1228958706,
-			"version": "9.8",
-			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/rom-13-0-official-lavender-crdroid-v9-8-14-08-2023.4523341/",
-			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/",
+			"filename": "",
+			"download": "",
+			"timestamp": ,
+			"md5": "",
+			"sha256": "",
+			"size": ,
+			"version": "",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/lc-dev/files/lavender/TWRP-recovery-erofs-dynamic-partitions-230713.img/download",
-			"paypal": "https://www.paypal.me/prashant1605",
-			"telegram": "https://t.me/NexLav",
-			"dt": "https://github.com/crdroidandroid/android_device_xiaomi_lavender",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
 			"common-dt": "",
-			"kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_lavender"
+			"kernel": ""
 		}
 	]
 }
